@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=700&height=80&lines=Welcome+to+My+GitHub+Profile!;AI%2FML+Engineer;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things;Let's+Build+Something+Amazing+Together+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=28&duration=3000&pause=1200&color=2196F3&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile;AI%2FML+Engineer;Full+Stack+Developer;Problem+Solver;Always+Learning+New+Things" />
 </p>
